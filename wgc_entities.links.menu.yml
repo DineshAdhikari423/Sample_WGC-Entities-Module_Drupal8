@@ -1,0 +1,13 @@
+# Tax receipt entity menu items definition
+entity.tax_receipt_entity.collection:
+  title: 'Tax receipt entity list'
+  route_name: entity.tax_receipt_entity.collection
+  description: 'List Tax receipt entity entities'
+  parent: system.admin_content
+  weight: 120
+
+tax_receipt_entity.admin.structure.settings:
+  title: 'Tax receipt entity settings'
+  description: 'Configure Tax receipt entity entities'
+  route_name: tax_receipt_entity.settings
+  parent: system.admin_structure

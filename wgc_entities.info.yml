@@ -1,0 +1,5 @@
+name: 'Custom Entities'
+type: module
+description: 'Custom entities'
+core: 8.x
+package: wgc

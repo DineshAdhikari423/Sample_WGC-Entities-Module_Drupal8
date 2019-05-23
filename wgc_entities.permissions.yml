@@ -1,0 +1,20 @@
+add tax receipt entity entities:
+  title: 'Create new Tax receipt entity entities'
+
+administer tax receipt entity entities:
+  title: 'Administer Tax receipt entity entities'
+  description: 'Allow to access the administration form to configure Tax receipt entity entities.'
+  restrict access: true
+
+delete tax receipt entity entities:
+  title: 'Delete Tax receipt entity entities'
+
+edit tax receipt entity entities:
+  title: 'Edit Tax receipt entity entities'
+
+view published tax receipt entity entities:
+  title: 'View published Tax receipt entity entities'
+
+view unpublished tax receipt entity entities:
+  title: 'View unpublished Tax receipt entity entities'
+
